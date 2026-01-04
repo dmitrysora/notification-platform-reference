@@ -1,1 +1,1 @@
-# notification-platform-reference
+# Notification Platform reference project.
